@@ -12,7 +12,7 @@ function respond() {
       botRegexOff = /^\/offseason/; botRegexRelo = /^\/relocation/; botRegexSail = /^\/sail/; botRegexFour = /^\/4th/; 
       botRegexWtf = /^\/wtf/; botRegexDrft = /^\/draft/; botRegexRule = /^\/rules/; botRegexDig = /^\/digest/; botRegexTrde = /^\/trade/; 
       botRegexScd = /^\/sdl/i; botRegexPdl = /^\/pdl/i; botRegexTw = /^\/twitch/i; botRegexSht = /^\/votes/; botRegexCheez = /^\/cheese/; botRegexJeff = /^\/jeff/;
- 
+      ;
   var teamAb = ["NE","NO","ARI","PHI","CLE","TEN","OAK","DAL","IND","SEA","CIN","PIT","JAC"
                 ,"BAL","SD","DEN","MIN","ATL","KC","NYG","GB","DET","HOU","STL","CHI","CAR",
                 "MIA","BUF","SF","WAS","NYJ","TB"]
