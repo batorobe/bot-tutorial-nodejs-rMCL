@@ -62,7 +62,7 @@ function respond() {
   }
   else if(request.text && botRegexCheez.test(request.text)) {
     this.res.writeHead(200);
-    postMessage("https://docs.google.com/spreadsheets/d/1YLgfUjrSfgi3zWBIlHPM8RE-aoVy_w6Bv9P-H5uZk4k/edit?usp=sharing");
+    postMessage("https://docs.google.com/spreadsheets/d/1CD3YDM1iUSIPiFYz1G2eloLdl7ic1gA4iAXl9jEC-Mw/edit#gid=1120314056");
     this.res.end();
   }
   else if(request.text && botRegexTw.test(request.text)) {
